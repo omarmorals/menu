@@ -1,13 +1,23 @@
 a{
-	background-color: aqua;
+	text-decoration: none;
+}
 }
 .lista1 a{
 	font-size: 16px;
-	background-color: grey;
+	background-color: red;
 	text-decoration: none;
 	display: block;
 	border-bottom: 2px solid #c0c0c0;
 	color: #c0c0c0;
 	margin-right: 5px;
 	padding: 1em 0 1em 0;
+}
+.item{
+	display: block;
+	background:#434B5B;
+	border-bottom: 1px solid #242A37;
+	color: #C4CCDa;
+	margin: 0px;
+	border-radius: 0px;
+	border-top: #5F6673;
 }
